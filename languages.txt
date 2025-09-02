@@ -1,0 +1,3 @@
+# My Programming Languages
+1. Python - Good for Beginners
+2. JavaScript - Runs the web
