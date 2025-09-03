@@ -2,3 +2,4 @@
 1. Python - Good for Beginners
 2. JavaScript - Runs the web
 3. Java - Big Buisness deployable
+4. C++ - Performance matters
